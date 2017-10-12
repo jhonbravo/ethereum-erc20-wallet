@@ -50,11 +50,11 @@ export default class InputPage extends Component {
                 <a
                     className='github_link'
                     target='_blank'
-                    href='https://github.com/dimorinny/ethereum-erc20-wallet'
+                    href='https://eracle.io'
                 >
                     <Icon
                         color='grey'
-                        name='github'
+                        name='ERACLE'
                         size='big'
                     />
                 </a>
